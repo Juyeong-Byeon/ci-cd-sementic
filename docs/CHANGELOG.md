@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.0.0...v1.0.1) (2024-06-12)
+
+### Performance
+
+* remove yarn lock ([45994d8](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/45994d8361d37ea0bb1c4fff0c566f974c3c9238))
+
 ## 1.0.0 (2024-06-12)
 
 ### Performance
