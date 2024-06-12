@@ -1,3 +1,10 @@
+## 1.0.0 (2024-06-12)
+
+### Performance
+
+* init ([15eb8db](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/15eb8dbacdf7a0aeefba54148fc2d923b6d15acf))
+* init json ([5926634](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/5926634a63c0ec029b8f57982d0e6f87016715b1))
+
 ## [1.13.0](https://github.com/Juyeong-Byeon/ci-deploy/compare/v1.12.0...v1.13.0) (2024-06-12)
 
 ### Features
