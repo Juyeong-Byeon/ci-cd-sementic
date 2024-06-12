@@ -1,7 +1,11 @@
 {
   "name": "ci-deploy",
   "private": true,
+<<<<<<< HEAD
   "version": "1.1.0-rc.3",
+=======
+  "version": "1.1.0-rc.2",
+>>>>>>> 9175042 (Stage (#3))
   "type": "module",
   "repository": {
     "type": "git",
