@@ -1,3 +1,20 @@
+## [1.1.0-rc.2](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2024-06-12)
+
+### Features
+
+* edit release.yaml ([550730f](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/550730fc7a8b18f7a14fcc6892847274fca7cf41))
+
+## [1.1.0-rc.1](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.0.1...v1.1.0-rc.1) (2024-06-12)
+
+### Features
+
+* disable backmerge ([f4ad370](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/f4ad3702aeb32dd1db466c850e8aa74070d6b515))
+* edit main page ([2663702](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/2663702090af1d372e298846b1a2fba98cf8f959))
+* edit main page 0.2.0 ([#2](https://github.com/Juyeong-Byeon/ci-cd-sementic/issues/2)) ([d07edc3](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/d07edc3ac63f0a5ea65ef9decfa43a9dfdabc228))
+* edit release.yaml ([bff8610](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/bff86101bb1ef1fa56b41d1e99cea4258384fc35))
+* edit release.yaml ([9a00c28](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/9a00c285e5c74f7440788ac61c32dd5514528de0))
+* enable backmerge ([12257ad](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/12257add953eb2227d5b3dcad09b832a742aeee1))
+
 ## [1.0.1](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.0.0...v1.0.1) (2024-06-12)
 
 ### Performance
