@@ -1,3 +1,9 @@
+## [1.1.0-rc.2](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2024-06-12)
+
+### Features
+
+* edit release.yaml ([550730f](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/550730fc7a8b18f7a14fcc6892847274fca7cf41))
+
 ## [1.1.0-rc.1](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.0.1...v1.1.0-rc.1) (2024-06-12)
 
 ### Features
