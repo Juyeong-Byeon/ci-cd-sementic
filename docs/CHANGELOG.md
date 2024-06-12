@@ -1,3 +1,9 @@
+## [1.1.0-rc.4](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.3...v1.1.0-rc.4) (2024-06-12)
+
+### Features
+
+* edit json ([ac08b37](https://github.com/Juyeong-Byeon/ci-cd-sementic/commit/ac08b379f1fddf7159b794d3e7ba7359f2aad660))
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 ## [1.1.0-rc.3](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.2...v1.1.0-rc.3) (2024-06-12)
