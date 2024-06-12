@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## [1.1.0-rc.3](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.2...v1.1.0-rc.3) (2024-06-12)
 
 ### Features
@@ -7,6 +8,8 @@
 
 =======
 >>>>>>> 9175042 (Stage (#3))
+=======
+>>>>>>> @{-1}
 ## [1.1.0-rc.2](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.1...v1.1.0-rc.2) (2024-06-12)
 
 ### Features
